@@ -7,7 +7,7 @@ CI/CD pipelines (Jenkins, GitHub Actions)
 Infrastructure as Code (Terraform, Ansible)
 Containerization and Orchestration (Docker, Kubernetes)
 Monitoring and Logging (Prometheus, Grafana, ELK Stack)
-Cloud Deployment (AWS, Azure, GCP)
+Cloud Deployment (AWS, Azure)
 
 Explore each section to find hands-on examples, step-by-step guides, and configurations to enhance your DevOps practices and streamline your workflows.
 
